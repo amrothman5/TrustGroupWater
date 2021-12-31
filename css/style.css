@@ -1265,7 +1265,7 @@ right: 0px;
        z-index: 3;
    }
    
-   .map{
+   .mansoura-map{
        position: relative;
        left: 200px;
        width: 35%;
@@ -1630,7 +1630,7 @@ right: 0px;
 
 }
 
-.map{
+.mansoura-map{
     position: relative;
     top: 250;
     width: 85%;
