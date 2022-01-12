@@ -167,19 +167,19 @@ display: flex;
       animation-delay: -1s;
       }
       .copy2{
-        stroke: #ee9849;
+        stroke: #598dee;
         animation-delay: -2s;
         }
         .copy3{
-          stroke: #c657ca;
+          stroke: #f1453f;
           animation-delay: -3s;
           }
           .copy4{
-            stroke: #3688f4;
+            stroke: #4c93f1;
             animation-delay: -4s;
             }
             .copy5{
-              stroke: #ffc107;
+              stroke: rgb(111, 241, 50);
               animation-delay: -5s;
               }
 /* ====================================================== */
